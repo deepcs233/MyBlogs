@@ -1,5 +1,5 @@
 ---
-title: 利用cython和swig重写了原作者计算 DAG 和 HMM 中的 vitrebi 函数，速度得到大幅提升。
+title: 利用cython和swig重写了jieba分词库中的核心函数，速度得到大幅提升。
 date: 2017-12-21
 tags: [python, cython ,swig,jieba,分词]
 toc: true
